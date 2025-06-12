@@ -1,0 +1,18 @@
+EJERCICIO 1: En una fábrica se desea enfriar de una manera brusca cubos de cobre (5cm de lado) Estos son retirados del horno a una tº de 100ºC y son arrojados en un recipiente que contiene 500gr de agua a 30ºC. Suponiendo que no hay intercambio de calor:
+a)	¿Cuál es el estado final del sistema? Indique tº y fases y masa de vapor de h20
+b)	¿Cuál es la mínima masa de h2o para que en el proceso de evaporamiento no se evapore h2o? 
+Datos: Ccobre: 0,092 cal/grºC
+Densidad cobre: 8,96 gr/cm3
+Cagua: 1 cal/grºC
+Lvap.: 540 mol/gr
+EJERCICIO 2: Una muestra de 4 l de gas ideal diatómico, en un cilindro, tiene una relación de calor especifico de Y=1,4 y se llena a través de un ciclo cerrado.
+Al inicio el gas está a 1 atm y 300kP.Primero su presión se triplica bajo volumen cte. Luego se expande adiabáticamente a su presión original. Por último el gas se comprime isobáricamente a su volumen inicial.
+a)Dibuje el diagrama PV del ciclo
+b)Determine el vol del gas final de la expansión.
+c)Encuentre la T del gas al comienzo de la expansión.
+d)Encuentre la T final del ciclo.
+e) ¿Cuál fue el trabajo neto realizado por el gas en el ciclo?
+EJERCICIO 3: Una esfera de masa 1.10-3 y carga2.10-13 C está en equilibrio y el hilo no conductor forma un ángulo de 5º con la línea de la carga. Gravedad: 9,8 m/s2
+a)	Aplique Ley de Gauss para determinar campo eléctrico producido por la línea infinita de carga. Considere que la densidad lineal de carga es ?= 100.103 C/m y Eo=8,8542.10-13.
+b)	Calcula la distancia r entre la esfera y la línea de carga infinita. 
+
